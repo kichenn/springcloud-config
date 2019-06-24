@@ -10,5 +10,5 @@ spring:
 ---
 spring:
     profiles: test
-    applicationsdfafdfd:
-        name: springcloud-config-hzit-testsfsdfsfdfasdf
+    application:
+        name: springcloud-config-hzit-test
